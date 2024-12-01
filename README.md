@@ -16,7 +16,7 @@ Conclusion:
 1) Identify high-performing products and categories to prioritize marketing efforts and inventory management.
    
 2) Understand customer preferences to tailor your product offerings and marketing campaigns.
-3) 
-4) Monitor sales trends to anticipate seasonal fluctuations and plan accordingly.
-5) 
-6) Optimize your sales team's performance by identifying top-performing sales representatives and areas for improvement.
+   
+3) Monitor sales trends to anticipate seasonal fluctuations and plan accordingly.
+   
+4) Optimize your sales team's performance by identifying top-performing sales representatives and areas for improvement.
